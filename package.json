@@ -11,7 +11,7 @@
     "@lyket/react": "^1.4.7",
     "@tailwindcss/typography": "^0.4.1",
     "bcryptjs": "^2.4.3",
-    "firebase": "^9.0.2",
+    "firebase": "^9.9.2",
     "firebase-admin": "^9.11.1",
     "gray-matter": "^4.0.3",
     "markdown-to-txt": "^1.0.1",
